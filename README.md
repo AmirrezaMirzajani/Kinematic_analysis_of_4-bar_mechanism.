@@ -1,0 +1,1 @@
+# Kinematic_analysis_of_4-bar_mechanism.
